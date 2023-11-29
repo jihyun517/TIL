@@ -32,7 +32,7 @@ fibo(9)를 구하는 과정에서 fibo(8)은 이미 구해졌을 것이다!<br>
 DP는 fibo(n) 값을 각각 기억하고 있다가 필요할 때 꺼내서 쓴다! 재사용 굳👍
 <br>
 
-👀 DP의 핵심은 `기억했다가 꺼내서 쓰기!!!` 기억하는 방법은 아래에서 설명한다.
+👀 DP의 핵심은 `기억했다가 꺼내서 쓰기!!!` [기억하는 방법](https://github.com/jihyun517/TIL/blob/main/Algorithm/Dynamic_Programming.md#3-%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98memoization)은 아래에서 설명한다.
 
 <br>
 
